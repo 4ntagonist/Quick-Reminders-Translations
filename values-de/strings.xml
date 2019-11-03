@@ -1,45 +1,45 @@
 <resources>
     <string name="about">
         <![CDATA[<b>Quick Reminders:</b>
-        <br/>\u2022Pin Notes &amp; Reminders zu Ihrem Benachrichtigungs-Pulldown.
+        <br/>\u2022Notizen &amp; Erinnerungen zu Ihrem Benachrichtigungsmenü (Pull-Down).
         <br/><br/><b>Designed &amp; Developed by:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
         <br/><br/><b>Übersetzungen von:</b>
         <br/>\u2022 G Alarco/@guillerag - Spanish
 	    <br/>\u2022 Sérgio Neto - Portuguese
 	    <br/>\u2022 Star Walking - Thai
-        <br/><br/><b>Quick Tip\'s:</b>
+        <br/><br/><b>Schnelltips:</b>
         <br/>\u2022 Erstellen Sie eine Erinnerung mit hoher Priorität, um ein Symbol in der Statusleiste anzuzeigen.
         <br/>\u2022 Benachrichtigungen mit niedriger Priorität sind vollständig zusammenklappbar.
-        <br/>\u2022 Klebrige Benachrichtigungen können nicht versehentlich entfernt werden.
+        <br/>\u2022 Angeheftete Benachrichtigungen können nicht versehentlich entfernt werden.
         <br/>\u2022 Planen Sie eine Benachrichtigung so ein, dass sie zu einem bestimmten Zeitpunkt erscheint.
         <br/><br/>Zögern Sie nicht, mich direkt zu kontaktieren &amp; vergessen Sie nicht, eine Rezension zu hinterlassen. &#128512;]]></string>
     <string name="close">Abbrechen</string>
-    <string name="rate_app">Bewerten Sie</string>
+    <string name="rate_app">Bewertung</string>
     <string name="no">Nein</string>
     <string name="yes">Ja</string>
-    <string name="send_report">Crash Report\nSenden</string>
+    <string name="send_report">Absturzbericht\nSenden</string>
     <string name="close_app">Clear\nError</string>
-    <string name="oops_error">Oops.. Sieht so aus, als ob etwas schief gelaufen wäre &amp; Quick Reminders Crashed! \n\n\nsorry for the unconvenience.</string>
-    <string name="dismiss">Verwerfen</string>
+    <string name="oops_error">Oops.. Sieht so aus, als ob etwas schief gelaufen wäre &amp; Quick Reminders Crashed! \n\n\nBitte entschuldige die Unannehmlichkeiten.</string>
+    <string name="dismiss">Löschen</string>
     <string name="newRem">Neue Notiz</string>
     <string name="sticky">Haftnotiz-Benachrichtigung</string>
     <string name="remind_max">Erinnerung (%01d/400)</string>
     <string name="tile_max">Titel (%01d/32)</string>
     <string name="random_colour">Zufällige Highlight-Farbe</string>
     <string name="edit">Bearbeiten</string>
-    <string name="notifs_off">Quick Reminder-Benachrichtigungen sind deaktiviert.  Klicken Sie hier, um zu den Einstellungen zu gelangen und sie wieder zu aktivieren.</string>
-    <string name="email_feedback">Rückmel</string>
+    <string name="notifs_off">Quick Reminder-Benachrichtigungen sind deaktiviert. Klicken Sie hier, um zu den Einstellungen zu gelangen und sie wieder zu aktivieren.</string>
+    <string name="email_feedback">Rückmeldung</string>
     <string name="desc_notif">Benachrichtigung mit hoher Priorität.</string>
     <string name="cancel">Abbrechen</string>
     <string name="custom_highlight">Eigene Highlight-Farbe</string>
     <string name="options">Optionen</string>
-    <string name="tap_centre">Tippen Sie auf Mitte zur Bestätigung</string>
-    <string name="select">Wählen Sie Highlight-Farbe</string>
+    <string name="tap_centre">Tippe auf die Mitte zur Bestätigung.</string>
+    <string name="select">Wähle eine Highlight-Farbe aus.</string>
     <string name="high_priority">Hohe Priorität</string>
     <string name="low_priority">Niedrige Priorität</string>
-    <string name="max_lines_ex">Max zeilen überschritten</string>
-    <string name="set_text">Inhalt Hervorheben Text</string>
+    <string name="max_lines_ex">Max Zeilen überschritten</string>
+    <string name="set_text">Textinhalt hervorheben</string>
     <string name="active_reminders">Aktive Erinnerungen</string>
     <string name="delete">Löschen</string>
     <string name="reminder_lost">Alarm</string>
@@ -49,11 +49,11 @@
     <string name="re_use">Vorherige Zeit verwenden?</string>
     <string name="new_time">Neue Zeit</string>
     <string name="active">Aktiv</string>
-    <string name="no_app_speech">Keine Anwendung zur Spracherkennung installiert</string>
+    <string name="no_app_speech">Keine Anwendung zur Spracherkennung installiert.</string>
     <string name="recurrence">Wiederholung</string>
     <string name="schedule">Zeitplan</string>
-    <string name="non_stick_alert">Eine nicht klebende Notiz, wenn sie weggestrichen wird, bleibt in Ihrer aktiven Erinnerungsliste, die Benachrichtigung wird nicht erneut ausgeführt, es sei denn, die App oder das Gerät wird neu gestartet.</string>
-    <string name="set_non_stick">Set Nicht klebrig?</string>
+    <string name="non_stick_alert">Wird eine Haftnotiz weggestrichen, bleibt diese in aktiver Erinnerungsliste. Die Benachrichtigung wird nicht erneut ausgeführt, es sei denn, die App oder das Gerät wird neu gestartet.</string>
+    <string name="set_non_stick">Haftnotiz lösen?</string>
     <string name="dark">Dunkles Thema</string>
     <string name="saved">Gespeichert</string>
 </resources>
